@@ -1,8 +1,4 @@
-{
-  "script": {
-    "start": "echo hi"
-  }
-}
+"scripts":{"start": "node gulpfile.js"},
 {
     "title": "New Age",
     "name": "startbootstrap-new-age",
