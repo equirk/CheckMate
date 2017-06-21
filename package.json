@@ -1,4 +1,5 @@
-"scripts":{"start": "node gulpfile.js"},
+"scripts":{"start": "node app",
+"postinstall": "gulp default"},
 {
     "title": "New Age",
     "name": "startbootstrap-new-age",
